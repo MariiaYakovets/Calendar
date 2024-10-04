@@ -1,0 +1,11 @@
+.Layout {
+    height: 100vh;
+    overflow-x: hidden;
+    
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

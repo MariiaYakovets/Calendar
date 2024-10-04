@@ -1,0 +1,9 @@
+.MyCalendar {
+    height: 90%;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+}
